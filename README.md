@@ -33,3 +33,18 @@ The cleaning/transformation and analysis of the data was done using Python. Full
 Sales had predominantly stemmed from budget-older families, Mainstream - young singles/couples, and Mainstream - retirees shoppers. Upon investigation, it was discovered that the heightened expenditure on chips among mainstream young singles/couples and retirees could be attributed to their larger population size compared to other buyers. Additionally, mainstream mid-age individuals and young singles/couples demonstrated a higher tendency to pay more per packet of chips, indicative of impulsive buying behavior.
 
 Moreover, my analysis revealed that Mainstream young singles and couples exhibited a 22% higher likelihood of purchasing Tyrrells chips compared to the rest of the population. To boost the category's performance, the Category Manager might consider placing Tyrrells and smaller packs of chips in off-location areas closer to segments frequented by young singles and couples. This strategic placement aims to increase visibility and encourage impulse purchasing behavior. Quantium can offer support to the Category Manager by providing recommendations on these segments' locations and assisting in measuring the impact of altered placements.
+
+## Task 2
+
+In this phase of the project, my task was to evaluate the impact of the new trial layouts and provide data-driven recommendations regarding whether these trial layouts should be implemented across all stores. Zilinka, the Category Manager for Chips, outlined specific areas of focus and expectations for this analysis.
+
+Zilinka emphasized the following key points:
+
+- Selection of control stores: I was tasked with exploring the data and defining metrics to select suitable control stores. The goal was to identify stores that would serve as effective control groups, ensuring comparability with the trial stores. Visualizing the drivers and metrics was crucial to determine the suitability of these control stores. I also considered the creation of a function to streamline this selection process.
+
+- Assessment of the trial: I was required to thoroughly analyze each trial store individually in comparison to its respective control store. The aim was to gain insights into the overall performance of each trial store and determine whether the trials were successful or not.
+
+- Collating findings: My final task involved summarizing the findings for each store and providing clear recommendations that could be shared with Julia, outlining the impact of the trial layouts on sales during the trial period.
+
+It was crucial to remember the significance of visualizations when presenting findings to the client. I ensured to save all generated visualizations for later use in the report. The deadline for submitting the analysis was set for mid-next week to allow ample time for discussion and report compilation before the client presentation scheduled in three weeks.
+
