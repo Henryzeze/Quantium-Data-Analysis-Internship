@@ -48,3 +48,14 @@ Zilinka emphasized the following key points:
 
 It was crucial to remember the significance of visualizations when presenting findings to the client. I ensured to save all generated visualizations for later use in the report. The deadline for submitting the analysis was set for mid-next week to allow ample time for discussion and report compilation before the client presentation scheduled in three weeks.
 
+### Data Cleaning and Analysis
+
+Analysis of the data was done using Python. Full details with explanations can be seen in the interactive Python notebook below.
+
+[Retail_Strategy_and_Analytics_Task_2](https://github.com/Henryzeze/Quantium-Data-Analysis-Internship/blob/main/Retail_Strategy_and_Analytics_Task_2%20(2).ipynb)
+
+### Insights
+
+I found control stores 233, 155, and 178 for trial stores 77, 86, and 88, respectively.
+
+The results for trial store 77 during the trial period showed a significant difference in at least two of the three trial months, but this was not the case for trial store 86. I considered checking with the client if the implementation of the trial was different in trial store 86. However, overall, the trial showed a significant increase in sales. After finishing our analysis, I prepared my presentation for the Category Manager.
