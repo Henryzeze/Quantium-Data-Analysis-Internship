@@ -59,3 +59,8 @@ Analysis of the data was done using Python. Full details with explanations can b
 I found control stores 233, 155, and 178 for trial stores 77, 86, and 88, respectively.
 
 The results for trial store 77 during the trial period showed a significant difference in at least two of the three trial months, but this was not the case for trial store 86. I considered checking with the client if the implementation of the trial was different in trial store 86. However, overall, the trial showed a significant increase in sales. After finishing our analysis, I prepared my presentation for the Category Manager.
+
+
+## Certificate of Completion
+
+![](Quantium_completion_certificate.JPG)
