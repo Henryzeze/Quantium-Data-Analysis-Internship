@@ -48,7 +48,7 @@ Zilinka emphasized the following key points:
 
 It was crucial to remember the significance of visualizations when presenting findings to the client. I ensured to save all generated visualizations for later use in the report. The deadline for submitting the analysis was set for mid-next week to allow ample time for discussion and report compilation before the client presentation scheduled in three weeks.
 
-### Data Cleaning and Analysis
+### Analysis
 
 Analysis of the data was done using Python. Full details with explanations can be seen in the interactive Python notebook below.
 
