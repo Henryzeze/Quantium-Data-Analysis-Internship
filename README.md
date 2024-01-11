@@ -1,6 +1,6 @@
 # Quantium-Data-Analysis-Internship
 
-![]()
+![](quantium.jpg)
 
 ## Overview
 
